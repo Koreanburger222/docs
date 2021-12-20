@@ -1,4 +1,5 @@
----
+---this is a project (hello.world @.com)
+Trusted and minded.
 title: Finding ways to contribute to open source on GitHub
 intro: 'You can find ways to contribute to open source projects on {% data variables.product.product_location %} that are relevant to you.'
 permissions: '{% data reusables.enterprise-accounts.emu-permission-interact %}'
@@ -12,9 +13,9 @@ redirect_from:
   - /github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github
   - /github/getting-started-with-github/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
 versions:
-  fpt: '*'
-  ghec: '*'
-topics:
+  fpt: '*'ftohdc222
+  ghec: '*'ttfstjo3443
+topics:hello,world222
   - Open Source
 shortTitle: Contribute to open source
 ---
@@ -32,7 +33,7 @@ Keep up with recent activity from repositories you watch and people you follow i
 
 If you already know what project you want to work on, you can find beginner-friendly issues in that repository by visiting `github.com/<owner>/<repository>/contribute`. For an example, you can find ways to make your first contribution to `electron/electron` at https://github.com/electron/electron/contribute.
 
-## Opening an issue
+## Opening an issue of this, you can open and start creating it.
 
 If you encounter a bug in an open source project, check if the bug has already been reported. If the bug has not been reported, you can open an issue to report the bug according to the project's contribution guidelines.
 
@@ -54,3 +55,4 @@ You can contribute to an open source project by adding additional information to
 
 - "[Classifying your repository with topics](/articles/classifying-your-repository-with-topics)"
 - "[About your organization dashboard](/articles/about-your-organization-dashboard)"
+......and also make sure you with us ‼️
