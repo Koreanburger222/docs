@@ -1,4 +1,5 @@
----
+---this is a project (hello.world @.com)
+Trusted and minded.
 title: Finding ways to contribute to open source on GitHub
 intro: 'You can find ways to contribute to open source projects on {% data variables.product.product_location %} that are relevant to you.'
 permissions: '{% data reusables.enterprise-accounts.emu-permission-interact %}'
@@ -54,3 +55,4 @@ You can contribute to an open source project by adding additional information to
 
 - "[Classifying your repository with topics](/articles/classifying-your-repository-with-topics)"
 - "[About your organization dashboard](/articles/about-your-organization-dashboard)"
+......and also make sure you with us ‼️
